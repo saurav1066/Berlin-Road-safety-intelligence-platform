@@ -1,7 +1,7 @@
 1. What real-world problem does this project address?
-Road accidents are caused in general by multiple factors. They are uncertain and are contributed by multiple interacting factors like human errors, environmental conditions, behaviour od pedestrians or other vechiles on the road, even poor infrastructure or road conditions and many more. This just makes predicting road accidents complex and uncertain.
+Cities collect enormous amounts of transportation data, but turning that data into timely, evidence-based decisions remains difficult. As a consequence Road accidents happen. Road accidents are caused in general by multiple factors. They are uncertain and are contributed by multiple interacting factors like human errors, environmental conditions, behaviour od pedestrians or other vechiles on the road, even poor infrastructure or road conditions and many more. This just makes predicting road accidents complex and uncertain.
 
-This makes this problem worth exploring. If there is a system that uses the data available and provide a platform that allows users to analyze and see chances of future accidents, realize trends and hotspots, it would help avoid major destructions on the roads. Data alone cannot reduce accidents. But data can improve the quality of decisions that lead to safer roads.
+This makes this problem worth exploring. If there is a system that uses the data available and provide a platform that allows users to analyze and see chances of trends and hotspots, it would help avoid major destructions on the roads, support road-safety investigations, prioritize infrastructure reviews, identify historically elevated-risk locations, provide evidence for decision making, assist transportation analysts. Data alone cannot reduce accidents. But data can improve the quality of decisions that lead to safer roads.
 
 This project helps provide insights to the stakeholders required to improve the chances of avoiding future accidents by providing insights from the available data.
 
@@ -14,6 +14,7 @@ The users could be the following entities:
 - Transport Authorities: to find if there are any existing patterns in the data available
 - Journalists: to find dangerous districts or hotspots in general 
 - Road Safety Organizations: to find a focus area for the awareness campagins
+- Mobility Analysts: to identify the data needed to actually work towards the goal
 
 3. What decisions will the platform support?
 The platform will help decisions about finiding the hotspots, finding contributing factors for the accidents, explaining how the risks have changed, where the awareness should focus and how some future accidents can be avoided and what steps should be taken.
@@ -23,6 +24,12 @@ The platform will help decisions about finiding the hotspots, finding contributi
 - It will not claim that it its accurate.
 - It cannot tell which policies to adopt
 - It cannot gurantee safety.
+- determine legal responsibility
+- replace transportation engineers
+- prove causation
+- guarantee safety improvements
+- predict every accident
+- recommend public policy automatically
 
 
 5. Why is machine learning useful here, and where are simpler methods enough?
